@@ -17,14 +17,23 @@
 
 ---
 
-## 💻 Tech I'm Learning
+## 💻 Tech Stack
 
-- 🌐 HTML, CSS, JavaScript  
-- ⚛️ React & Tailwind CSS  
-- 📡 Axios & JSON Server  
-- 🧠 Basics of AI, Cybersecurity & DSA  
+<p align="left">
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" width="40" height="40" alt="C"  /></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40" alt="C++" /></a>
+  <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40" height="40" alt="Java" /></a>
+  <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40" height="40" alt="HTML" /></a>
+  <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40" height="40" alt="CSS" /></a>
+  <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" height="40" alt="JavaScript" /></a>
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" height="40" alt="React" /></a>
+  <a href="#"><img src="https://vitejs.dev/logo.svg" width="40" height="40" alt="Vite" /></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" /></a>
+</p>
 
 ---
+
+
 
 ## 📈 GitHub Stats
 
@@ -34,11 +43,21 @@
 </p>
 
 ---
+## 🤝 Connect With Me
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/supreetmohapatra06/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:supreetmohapatra06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/supreetmohapatra06/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:supreetmohapatra06@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Supreet37" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40" alt="GitHub" />
+  </a>
 </p>
+
+
+---
+
 
