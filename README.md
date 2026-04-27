@@ -19,7 +19,7 @@
 
 ## 💻 Tech Stack
 
-<p align="left">
+<p>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" width="40" height="40" alt="C"  /></a>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40" alt="C++" /></a>
   <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40" height="40" alt="Java" /></a>
