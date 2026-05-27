@@ -85,29 +85,26 @@ My current goal is to integrate AI models into full-stack projects and deploy bo
 
 ## 🌐 Socials
 
-## 🌐 Socials
-
-<p>
+<p style="background-color: white;">
 <a href="https://www.github.com/Supreet37" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" style="margin-right:10px;" />
-</a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+</a>&nbsp;
 <a href="https://www.linkedin.com/in/supreet-mohapatra" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" style="margin-right:10px;" />
-</a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+</a>&nbsp;
 <a href="http://www.medium.com/@supreetmohapatra06" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" style="margin-right:10px;" />
-</a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" />
+</a>&nbsp;
 <a href="https://www.dev.to/supreet37" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-colored.svg" width="32" height="32" alt="DEV.to" title="DEV.to" style="margin-right:10px;" />
-</a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV.to" title="DEV.to" />
+</a>&nbsp;
 <a href="https://www.gitlab.com/Supreet37" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab-colored.svg" width="32" height="32" alt="GitLab" title="GitLab" style="margin-right:10px;" />
-</a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" />
+</a>&nbsp;
 <a href="https://discord.com/users/sups" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-colored.svg" width="32" height="32" alt="Discord" title="Discord" style="margin-right:10px;" />
-</a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
+</a>&nbsp;
 </p>
-
 
 ---
 
