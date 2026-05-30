@@ -11,8 +11,6 @@
 
 I'm **Supreet Mohapatra**, a developer exploring the intersection of **AI, Machine Learning, and Full-Stack Development**.
 
-Currently building intelligent systems that combine **Computer Vision**, **Machine Learning**, and modern web technologies. My focus is turning models into practical applications that solve real-world problems.
-
 Recently working on a **Smart Attendance System** featuring face recognition, liveness detection, gesture verification, and voice authentication while expanding my knowledge of AI engineering and deployment.
 
 ### ⚡ Currently
