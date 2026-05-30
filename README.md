@@ -28,7 +28,7 @@ Recently working on a **Smart Attendance System** featuring face recognition, li
 
 <td width="40%" align="center">
 
-<img src="https://chatgpt.com/s/m_6a1a5fa9c9f08191b4d07b927cd30635" width="320"/>
+<img src="profile" width="320"/>
 
 </td>
 
