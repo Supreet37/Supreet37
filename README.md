@@ -2,12 +2,38 @@
 
 ### DSA Learner | Full Stack Developer | Exploring AI | ML Engineer
 
-I've been learning to code for several years, starting with Java and then Python, and gradually moving into full-stack development and machine learning. My passion lies in building practical projects that combine backend systems with AI models.
+<table>
+<tr>
 
-Recently, I've been working on a **Smart Attendance System** using face recognition, Mediapipe, Tkinter, and SQLite — which has helped me strengthen my skills in computer vision and environment debugging. I enjoy experimenting with regression and classification models like **Logistic Regression**, **Random Forest**, **LightGBM**, and **XGBoost**, applying them to real-world problems.
+<td width="60%">
 
-My current goal is to integrate AI models into full-stack projects and deploy both frontend and backend successfully, while continuing to explore new tools and frameworks that push my learning further.
+# 👨‍💻 About Me
 
+I'm **Supreet Mohapatra**, a developer exploring the intersection of **AI, Machine Learning, and Full-Stack Development**.
+
+Currently building intelligent systems that combine **Computer Vision**, **Machine Learning**, and modern web technologies. My focus is turning models into practical applications that solve real-world problems.
+
+Recently working on a **Smart Attendance System** featuring face recognition, liveness detection, gesture verification, and voice authentication while expanding my knowledge of AI engineering and deployment.
+
+### ⚡ Currently
+- Building AI-powered applications
+- Exploring Hugging Face models
+- Learning MLOps & model deployment
+- Improving DSA and system design skills
+
+📍 India  
+📧 supreetmohapatra06@gmail.com
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://chatgpt.com/s/m_6a1a5fa9c9f08191b4d07b927cd30635" width="320"/>
+
+</td>
+
+</tr>
+</table>
 ---
 
 - 🌍 Based in India
