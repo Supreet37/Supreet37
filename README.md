@@ -19,8 +19,6 @@ Recently working on a **Smart Attendance System** featuring face recognition, li
 - Learning MLOps & model deployment
 - Improving DSA and system design skills
 
-📍 India  
-📧 supreetmohapatra06@gmail.com
 
 </td>
 
