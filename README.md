@@ -1,4 +1,4 @@
-# Hi there! I'm Supreet Mohapatra 👋
+# Hi there! I'm Supreet  👋
 
 ### DSA Learner | Full Stack Developer | Exploring AI | ML Engineer
 
