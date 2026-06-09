@@ -5,7 +5,7 @@
 <table>
 <tr>
 
-<td width="60%">
+<td height="95%">
 
 # 👨‍💻 About Me
 
