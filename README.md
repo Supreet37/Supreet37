@@ -169,6 +169,7 @@ Recently working on a **Smart Attendance System** featuring face recognition, li
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" title="Jupyter" width="36" height="36" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="36" height="36" /></a>
 </p>
+
 ---
 
 ## 🌐 Socials
