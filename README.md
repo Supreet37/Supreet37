@@ -50,6 +50,8 @@ Recently working on a **Smart Attendance System** featuring face recognition, li
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" title="Dart" />
 </p>
 
 ### Frontend
@@ -65,6 +67,8 @@ Recently working on a **Smart Attendance System** featuring face recognition, li
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" title="Redux" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="jQuery" title="jQuery" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/threejs-colored.svg" width="36" height="36" alt="Three.js" title="Three.js" />
 </p>
 
 ### Backend & APIs
@@ -76,6 +80,7 @@ Recently working on a **Smart Attendance System** featuring face recognition, li
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" title="NestJS" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" title="Flask" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" title="Django" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" title="GraphQL" />
 </p>
 
 ### Databases & Cloud
@@ -88,22 +93,73 @@ Recently working on a **Smart Attendance System** featuring face recognition, li
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Microsoft Azure" title="Microsoft Azure" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" title="Heroku" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" title="Render" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" height="36" alt="Redis" title="Redis" />
 </p>
 
 ### ML / AI & DevOps
 <p>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" title="PyTorch" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow" />
-<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="36" height="36" alt="Hugging Face">
+<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="36" height="36" alt="Hugging Face" title="Hugging Face" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" title="Kubernetes" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" title="Flutter" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" title="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" title="Pandas" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" title="Scikit-learn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV" title="OpenCV" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" title="Raspberry Pi" />
 </p>
 
-### IDEs & Environments
+### 🔍 Computer Vision
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV" title="OpenCV" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" title="PyTorch" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/180px-Keras_logo.svg.png" width="36" height="36" alt="Keras" title="Keras" />
+<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="36" height="36" alt="Hugging Face" title="Hugging Face" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" title="Scikit-learn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" title="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" title="Pandas" />
+</p>
+
+### 🔐 Authentication & Security
+<p>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jwt-colored.svg" width="36" height="36" alt="JWT" title="JWT" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Firebase_20220227.svg" width="36" height="36" alt="Firebase Auth" title="Firebase Auth" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36" height="36" alt="Nginx" title="Nginx" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase Auth" title="Supabase Auth" />
+</p>
+
+### 📱 Mobile Development
+<p>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" title="Flutter" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" title="Dart" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="36" height="36" alt="Android" title="Android" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React Native" title="React Native" />
+</p>
+
+### 🧪 Testing & QA
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="36" height="36" alt="Jest" title="Jest" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="36" height="36" alt="Selenium" title="Selenium" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="36" height="36" alt="PyTest" title="PyTest" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" title="Postman" />
+</p>
+
+### 📊 Data & Analytics
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="36" height="36" alt="Matplotlib" title="Matplotlib" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" title="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" title="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="36" height="36" alt="Kaggle" title="Kaggle" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/240px-Plotly-logo-01-square.png" width="36" height="36" alt="Plotly" title="Plotly" />
+</p>
+
+### 🖥️ IDEs & Environments
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" title="Eclipse" width="36" height="36" /></a>
@@ -112,8 +168,10 @@ Recently working on a **Smart Attendance System** featuring face recognition, li
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" title="Google Colab" width="36" height="36" /></a>
 <a href="https://www.python.org/downloads/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python IDLE" title="Python IDLE" width="36" height="36" /></a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" title="Unity" width="36" height="36" /></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="36" height="36" /></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" title="Jupyter" width="36" height="36" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="36" height="36" /></a>
 </p>
-
 ---
 
 ## 🌐 Socials
