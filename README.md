@@ -68,7 +68,7 @@ Recently working on a **Smart Attendance System** featuring face recognition, li
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="jQuery" title="jQuery" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/threejs-colored.svg" width="36" height="36" alt="Three.js" title="Three.js" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" width="36" height="36" alt="Three.js" title="Three.js" />
 </p>
 
 ### Backend & APIs
