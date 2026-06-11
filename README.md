@@ -94,7 +94,7 @@ Recently working on a **Smart Attendance System** featuring face recognition, li
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" title="Heroku" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" title="Render" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" height="36" alt="Redis" title="Redis" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" title="Redis" />
 </p>
 
 ### ML / AI & DevOps
@@ -111,15 +111,12 @@ Recently working on a **Smart Attendance System** featuring face recognition, li
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" title="Pandas" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" title="Scikit-learn" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV" title="OpenCV" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" title="Raspberry Pi" />
 </p>
 
 ### 🔍 Computer Vision
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV" title="OpenCV" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" title="PyTorch" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/180px-Keras_logo.svg.png" width="36" height="36" alt="Keras" title="Keras" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="36" height="36" alt="Keras" title="Keras" />
 <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="36" height="36" alt="Hugging Face" title="Hugging Face" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" title="Scikit-learn" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" title="NumPy" />
@@ -128,8 +125,8 @@ Recently working on a **Smart Attendance System** featuring face recognition, li
 
 ### 🔐 Authentication & Security
 <p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jwt-colored.svg" width="36" height="36" alt="JWT" title="JWT" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Firebase_20220227.svg" width="36" height="36" alt="Firebase Auth" title="Firebase Auth" />
+<img src="https://jwt.io/img/pic_logo.svg" width="36" height="36" alt="JWT" title="JWT" />
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="36" height="36" alt="Firebase Auth" title="Firebase Auth" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36" height="36" alt="Nginx" title="Nginx" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase Auth" title="Supabase Auth" />
 </p>
@@ -156,7 +153,7 @@ Recently working on a **Smart Attendance System** featuring face recognition, li
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" title="NumPy" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" title="Pandas" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="36" height="36" alt="Kaggle" title="Kaggle" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/240px-Plotly-logo-01-square.png" width="36" height="36" alt="Plotly" title="Plotly" />
+<img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="36" height="36" alt="Plotly" title="Plotly" />&nbsp;
 </p>
 
 ### 🖥️ IDEs & Environments
