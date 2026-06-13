@@ -185,6 +185,9 @@ Recently working on a **Smart Attendance System** featuring face recognition, li
 <a href="https://discord.com/users/sups" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
 </a>&nbsp;
+<a href="https://huggingface.co/Nerdy37" target="_blank" rel="noreferrer">
+ <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="36" height="36" alt="Hugging Face" title="Hugging Face" />
+</a>&nbsp;
 </p>
 
 ---
