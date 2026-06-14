@@ -24,7 +24,7 @@ Recently working on a **Smart Attendance System** featuring face recognition, li
 
 <td width="40%" align="center">
 
-<img src="profile" width="320"/>
+<img src="supreet.png"/>
 
 </td>
 
