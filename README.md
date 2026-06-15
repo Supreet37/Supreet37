@@ -30,6 +30,7 @@ Recently working on a **Smart Attendance System** featuring face recognition, li
 
 </tr>
 </table>
+
 ---
 
 - 🌍 Based in India
