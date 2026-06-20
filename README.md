@@ -2,18 +2,14 @@
 
 ### DSA Learner | Full Stack Developer | Exploring AI | ML Engineer
 
-<table>
-<tr>
-<td align="center" width="40%">
-<img src="supreet.png" width="280"/>
-</td>
-<td>
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 24px;">
+    <div style="flex: 1; min-width: 260px;">
 
 ## 👨‍💻 About Me
 
 I'm **Supreet Mohapatra**, a developer exploring the intersection of **AI, Machine Learning, and Full-Stack Development**.
-
-Recently working on a **Smart Attendance System** featuring face recognition, liveness detection, gesture verification, and voice authentication while expanding my knowledge of AI engineering and deployment.
+Recently working on **DocmindAI** — a PDF intelligence tool featuring semantic search, smart analysis, and compression while expanding my knowledge of AI engineering and deployment.
 
 ### ⚡ Currently
 - Building AI-powered applications
@@ -21,9 +17,12 @@ Recently working on a **Smart Attendance System** featuring face recognition, li
 - Learning MLOps & model deployment
 - Improving DSA and system design skills
 
-</td>
-</tr>
-</table>
+</div>
+    <div style="flex: 0 0 auto; text-align: center;">
+      <img src="supreet.png" width="300"/>
+    </div>
+  </div>
+</div>
 
 ---
 
