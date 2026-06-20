@@ -2,9 +2,12 @@
 
 ### DSA Learner | Full Stack Developer | Exploring AI | ML Engineer
 
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 24px;">
-    <div style="flex: 1; min-width: 260px;">
+<table>
+<tr>
+<td align="center" width="40%">
+<img src="supreet.png" width="280"/>
+</td>
+<td>
 
 ## 👨‍💻 About Me
 
@@ -18,12 +21,9 @@ Recently working on a **Smart Attendance System** featuring face recognition, li
 - Learning MLOps & model deployment
 - Improving DSA and system design skills
 
-</div>
-    <div style="flex: 0 0 auto; text-align: center;">
-      <img src="supreet.png" width="300"/>
-    </div>
-  </div>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
