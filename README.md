@@ -2,14 +2,10 @@
 
 ### DSA Learner | Full Stack Developer | Exploring AI | ML Engineer
 
-<style>
-@media (max-width: 756px) {
+<table style="@media (max-width: 756px) {
   table {
     display: block;
-  }
-}
-</style>
-<table>
+  }">
 <tr>
 
 <td height="95%"">
