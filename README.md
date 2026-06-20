@@ -3,7 +3,7 @@
 ### DSA Learner | Full Stack Developer | Exploring AI | ML Engineer
 
 <div align="center">
-  <img src="supreet.png" width="60%"/>
+  <img src="supreet.png" height="50%"/>
 </div>
 
 ## 👨‍💻 About Me
