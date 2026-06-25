@@ -1,6 +1,6 @@
 # Hi there! I'm Supreet 👋
 
-### AI Engineer · Full Stack Developer · Building real AI products, not just demos
+### AI Engineer in making · Full Stack Developer · Building real AI products, not just demos
 
 <div align="center">
   <img src="banner.png"/>
