@@ -12,7 +12,7 @@
 
 I'm **Supreet Mohapatra**, a CSE undergrad from India building at the intersection of **applied AI and full-stack development**.
 
-I build things that actually work — RAG pipelines, computer vision systems, NLP tools, and AI-integrated web apps. Currently deepening my **DSA & system design** skills for placement 2027 while shipping real projects.
+I build things that actually work — RAG pipelines, computer vision systems, NLP tools, and AI-integrated web apps. Currently deepening my **DSA & system design** skills for better system or applicaation building while shipping real projects.
 
 ### ⚡ Right now
 - Building **DocMind-AI** — AI-powered PDF platform with semantic search & vector retrieval
