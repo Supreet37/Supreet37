@@ -133,25 +133,30 @@ I build things that actually work — RAG pipelines, computer vision systems, NL
 
 ## 🌐 Socials
 
-<p>
-<a href="https://www.github.com/Supreet37" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/supreet-mohapatra" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-</a>&nbsp;
-<a href="http://www.medium.com/@supreetmohapatra06" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" />
-</a>&nbsp;
-<a href="https://www.dev.to/supreet37" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV.to" title="DEV.to" />
-</a>&nbsp;
-<a href="https://leetcode.com/u/DevHime" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="32" height="32" alt="LeetCode" title="LeetCode" />
-</a>&nbsp;
-<a href="https://huggingface.co/Nerdy37" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="32" height="32" alt="Hugging Face" title="Hugging Face" />
-</a>
+<p align="left">
+  <a href="https://www.github.com/Supreet37">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/supreet-mohapatra">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://medium.com/@supreetmohapatra06">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  
+  <a href="https://dev.to/supreet37">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  
+  <a href="https://leetcode.com/u/DevHime">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  
+  <a href="https://huggingface.co/Nerdy37">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
 </p>
 
 ---
