@@ -1,3 +1,33 @@
+# Hi there! I'm Supreet 👋
+
+### AI Engineer in making · Full Stack Developer · Building real AI products, not just demos
+
+<div align="center">
+  <img src="banner.png"/>
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+I'm **Supreet Mohapatra**, a CSE undergrad from India building at the intersection of **applied AI and full-stack development**.
+
+I build things that actually work — RAG pipelines, computer vision systems, NLP tools, and AI-integrated web apps. Currently deepening my **DSA & system design** skills for better system or applicaation building while shipping real projects.
+
+### ⚡ Right now
+- Building **DocMind-AI** — AI-powered PDF platform with semantic search & vector retrieval
+- Grinding **DSA daily** on [LeetCode](https://leetcode.com/u/DevHime) (Java) · tracking progress in [DSA-series](https://github.com/Supreet37/DSA-series)
+- Learning **system design** fundamentals
+- Writing about what I build on [Medium](http://www.medium.com/@supreetmohapatra06) & [DEV.to](https://www.dev.to/supreet37)
+
+---
+
+- 🌍 Based in India (Odisha)
+- ✉️ [supreetmohapatra06@gmail.com](mailto:supreetmohapatra06@gmail.com)
+- 🤝 Open to collaborating on AI-integrated apps and open source
+- 💬 Fun fact: *"I'm secretly Shuri from Wakanda — mixing tech brilliance with sharp debating skills."*
+
+---
 ## 🛠️ What I actually work with
 
 <details>
@@ -55,106 +85,6 @@
 ![](https://skillicons.dev/icons?i=git,figma,postman,jupyter)
 
 </details>
-
-# Hi there! I'm Supreet 👋
-
-### AI Engineer in making · Full Stack Developer · Building real AI products, not just demos
-
-<div align="center">
-  <img src="banner.png"/>
-</div>
-
----
-
-## 👩‍💻 About Me
-
-I'm **Supreet Mohapatra**, a CSE undergrad from India building at the intersection of **applied AI and full-stack development**.
-
-I build things that actually work — RAG pipelines, computer vision systems, NLP tools, and AI-integrated web apps. Currently deepening my **DSA & system design** skills for better system or applicaation building while shipping real projects.
-
-### ⚡ Right now
-- Building **DocMind-AI** — AI-powered PDF platform with semantic search & vector retrieval
-- Grinding **DSA daily** on [LeetCode](https://leetcode.com/u/DevHime) (Java) · tracking progress in [DSA-series](https://github.com/Supreet37/DSA-series)
-- Learning **system design** fundamentals
-- Writing about what I build on [Medium](http://www.medium.com/@supreetmohapatra06) & [DEV.to](https://www.dev.to/supreet37)
-
----
-
-- 🌍 Based in India (Odisha)
-- ✉️ [supreetmohapatra06@gmail.com](mailto:supreetmohapatra06@gmail.com)
-- 🤝 Open to collaborating on AI-integrated apps and open source
-- 💬 Fun fact: *"I'm secretly Shuri from Wakanda — mixing tech brilliance with sharp debating skills."*
-
----
-
-## 🛠️ What I actually work with
-
-### Languages
-<p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++" />
-</p>
-
-### Frontend
-<p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" title="Angular" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" title="Sass" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" title="Redux" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite" />
-</p>
-
-### Backend & APIs
-<p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" title="FastAPI" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" title="Node.js" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" title="Express" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" title="Flask" />
-</p>
-
-### Databases
-<p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="Supabase" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase" />
-</p>
-
-### Deployment & Cloud
-<p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/netlify-colored.svg" width="36" height="36" alt="Netlify" title="Netlify" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" title="Render" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" title="Heroku" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud" />
-</p>
-
-### AI / ML
-<p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" title="Scikit-learn" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV" title="OpenCV" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" title="NumPy" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" title="Pandas" />
-<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="36" height="36" alt="Hugging Face" title="Hugging Face" />
-</p>
-
-### Tools
-<p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" title="Postman" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="36" height="36" alt="Jest" title="Jest" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="36" height="36" alt="Jupyter" title="Jupyter" />
-</p>
 
 ---
 
