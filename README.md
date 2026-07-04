@@ -142,10 +142,7 @@ I build things that actually work — RAG pipelines, computer vision systems, NL
 | Project | What it does | Stack |
 |---|---|---|
 | [hallucination-detector](https://github.com/Supreet37/hallucination-detector) | Chrome extension + FastAPI backend that detects AI hallucinations using NLI models | `Python` `FastAPI` `NLP` `Chrome Extension` `Gemini` |
-| [math-solver-cnn](https://github.com/Supreet37/math-solver-cnn) | Solves handwritten math expressions — CNN on MNIST + OpenCV segmentation pipeline | `Python` `TensorFlow` `Keras` `OpenCV` `CNN` |
-| [DocMind-AI](https://github.com/Supreet37/DocMind-AI) | AI PDF platform with semantic search, summaries, flashcards & document chat | `TypeScript` `Gemini API` `Semantic Search` |
 | [baby-cry-analyzer](https://github.com/Supreet37/baby-cry-analyzer) | Classifies infant cries (hunger, pain, tiredness) from audio using ML | `Python` `TypeScript` `ML` `Deep Learning` |
-| [AI-Text-Detector](https://github.com/Supreet37/AI-Text-Detector) | Detects AI-generated vs human-written text using logistic regression + TF-IDF | `Python` `scikit-learn` `NLTK` `NLP` |
 | [Smart-attendance-system](https://github.com/Supreet37/Smart-attendance-system) | Face recognition + voice verification + GPS-based attendance automation | `Python` `OpenCV` `Pillow` `Voice Recognition` |
 | [Friday-ai](https://github.com/Supreet37/Friday-ai) | Voice-enabled AI desktop assistant with a web interface, inspired by Iron Man's FRIDAY | `Python` `JS` `TTS` `HTML/CSS` |
 
@@ -155,14 +152,12 @@ I build things that actually work — RAG pipelines, computer vision systems, NL
 |---|---|---|
 | [CodeBridge](https://code-bridgeeducation.netlify.app/) | Learning & internship platform with student/admin flows, cart, events | `React` `Vite` `Tailwind` `Axios` |
 | [EcoHub](https://github.com/Supreet37/EcoHub) | Carbon footprint & sustainability tracking platform | `React` `JavaScript` `Vite` |
-| [figma-to-website](https://github.com/Supreet37/figma-to-website) | 5 Figma-to-code projects — SaaS, landing pages, dashboards | `HTML` `CSS` `JS` |
 
 ### 📚 Learning in Public
 
 | Project | What it does |
 |---|---|
 | [DSA-series](https://github.com/Supreet37/DSA-series) | My daily DSA grind — LeetCode problems, patterns, notes in Java |
-| [Python-Mini-Projects](https://github.com/Supreet37/Python-Mini-Projects) | 25+ Python projects covering automation, web scraping & utilities |
 
 ---
 
