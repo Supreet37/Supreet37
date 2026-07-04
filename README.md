@@ -1,3 +1,61 @@
+## 🛠️ What I actually work with
+
+<details>
+<summary><b>Languages</b></summary>
+<br>
+
+![](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp)
+
+</details>
+
+<details>
+<summary><b>Frontend</b></summary>
+<br>
+
+![](https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap,sass,html,css,vue)
+
+</details>
+
+<details>
+<summary><b>Backend & APIs</b></summary>
+<br>
+
+![](https://skillicons.dev/icons?i=nodejs,js,express)
+
+</details>
+
+<details>
+<summary><b>Databases</b></summary>
+<br>
+
+![](https://skillicons.dev/icons?i=postgresql,mongodb,redis,firebase)
+
+</details>
+
+<details>
+<summary><b>Deployment & Cloud</b></summary>
+<br>
+
+![](https://skillicons.dev/icons?i=vercel,docker,huggingface,gcp)
+
+</details>
+
+<details>
+<summary><b>AI / ML</b></summary>
+<br>
+
+![](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv)
+
+</details>
+
+<details>
+<summary><b>Tools</b></summary>
+<br>
+
+![](https://skillicons.dev/icons?i=git,figma,postman,jupyter)
+
+</details>
+
 # Hi there! I'm Supreet 👋
 
 ### AI Engineer in making · Full Stack Developer · Building real AI products, not just demos
