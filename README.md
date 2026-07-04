@@ -163,6 +163,8 @@ I build things that actually work — RAG pipelines, computer vision systems, NL
 
 ## 📊 GitHub Stats
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Supreet37&theme=react-dark&hide_border=true&area=true" width="100%" />
+
 <a href="http://www.github.com/Supreet37">
   <img src="https://streak-stats.demolab.com/?user=Supreet37&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </a>
