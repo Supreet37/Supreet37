@@ -98,8 +98,6 @@ I build things that actually work — RAG pipelines, computer vision systems, NL
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="36" height="36" alt="Jupyter" title="Jupyter" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supreet37&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
 ---
 
 ## 🚀 Featured Projects
