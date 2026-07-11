@@ -22,7 +22,7 @@ I build things that actually work — RAG pipelines, computer vision systems, NL
 
 ---
 
--  a href="https://supreet-psi.vercel.app" target="_blank">🌍 Portfolio</a>
+-  <a href="https://supreet-psi.vercel.app" target="_blank">🌍 Portfolio</a>
 - ✉️ [supreetmohapatra06@gmail.com](mailto:supreetmohapatra06@gmail.com)
 - 🤝 Open to collaborating on AI-integrated apps and open source
 
