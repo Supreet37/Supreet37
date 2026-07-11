@@ -22,10 +22,9 @@ I build things that actually work — RAG pipelines, computer vision systems, NL
 
 ---
 
-- 🌍 Based in India (Odisha)
+-  a href="https://supreet-psi.vercel.app" target="_blank">🌍 Portfolio</a>
 - ✉️ [supreetmohapatra06@gmail.com](mailto:supreetmohapatra06@gmail.com)
 - 🤝 Open to collaborating on AI-integrated apps and open source
-- 💬 Fun fact: *"I'm secretly Shuri from Wakanda — mixing tech brilliance with sharp debating skills."*
 
 ---
 
