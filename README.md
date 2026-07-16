@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/banner.png" width="100%" alt="banner" />
+<img src="banner.png" width="100%" alt="banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5EEAD4&background=050B1300&center=true&vCenter=true&width=600&lines=Building+real+AI+products%2C+not+just+demos;RAG+pipelines+%C2%B7+computer+vision+%C2%B7+NLP;Grinding+DSA%2C+one+commit+at+a+time" alt="Typing SVG" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/terminal-divider.svg" width="100%" alt="divider"/>
+<img src="terminal-divider.svg" width="100%" alt="divider"/>
 
 ## `> whoami`
 
@@ -24,7 +24,7 @@ I build things that actually work — RAG pipelines, computer vision systems, NL
 
 📫 **supreetmohapatra06@gmail.com**
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/terminal-divider.svg" width="100%" alt="divider"/>
+<img src="terminal-divider.svg" width="100%" alt="divider"/>
 
 ## `> ./debug_mode.sh`
 
@@ -116,7 +116,7 @@ That's the whole philosophy behind this README: **build things that actually wor
 
 </details>
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/terminal-divider.svg" width="100%" alt="divider"/>
+<img src="terminal-divider.svg" width="100%" alt="divider"/>
 
 ## `> stack --list`
 
@@ -153,27 +153,45 @@ That's the whole philosophy behind this README: **build things that actually wor
 |---|---|
 | [DSA-series](https://github.com/) | My daily DSA grind — LeetCode problems, patterns, notes in Java |
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/terminal-divider.svg" width="100%" alt="divider"/>
+<img src="terminal-divider.svg" width="100%" alt="divider"/>
 
 ## `> contact --all`
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-050B13?style=for-the-badge&logo=vercel&logoColor=5EEAD4" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Medium-050B13?style=for-the-badge&logo=medium&logoColor=5EEAD4" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/DEV.to-050B13?style=for-the-badge&logo=devdotto&logoColor=5EEAD4" /></a>
-  <a href="mailto:supreetmohapatra06@gmail.com"><img src="https://img.shields.io/badge/Email-050B13?style=for-the-badge&logo=gmail&logoColor=5EEAD4" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-050B13?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" /></a>
+<p align="left">
+  <a href="https://www.github.com/Supreet37" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/supreet-mohapatra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://medium.com/@supreetmohapatra06" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  
+  <a href="https://dev.to/supreet37" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  
+  <a href="https://leetcode.com/u/DevHime" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  
+  <a href="https://huggingface.co/Nerdy37" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
 </p>
 
 ## `> git log --stat`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Supreet37&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Supreet37&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supreet37&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/terminal-divider.svg" width="100%" alt="divider"/>
+<img src="terminal-divider.svg" width="100%" alt="divider"/>
