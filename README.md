@@ -18,7 +18,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00E08A&center=true&vCenter=true&width=800&lines=Building+RAG+pipelines;Training+Computer+Vision+Models;Shipping+AI-integrated+Web+Apps;DSA+%7C+System+Design+%7C+Real+Projects"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00E08A&center=true&vCenter=true&width=800&lines=Building+RAG+pipelines;Training+Models;Shipping+AI-integrated+Web+Apps;DSA+%7C+System+Design+%7C+Real+Projects"
     alt="Typing SVG"
   />
   <img src="banner.png">
@@ -56,7 +56,7 @@
 <img src="./docs/img/divider.svg" width="100%" alt="" />
 
 <p align="center">
-  <img src="./docs/img/hirad_core.svg" width="100%" alt="Core panel — who I am, in short" />
+  <img src="./docs/img/core.svg" width="100%" alt="Core panel — who I am, in short" />
 </p>
 
 <img src="./docs/img/divider.svg" width="100%" alt="" />
