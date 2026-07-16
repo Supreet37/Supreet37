@@ -1,34 +1,73 @@
-# Hi there! I'm Supreet 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050b08,100:00e08a&height=250&section=header&text=Supreet%20Mohapatra&fontColor=e8f7ee&fontSize=70&animation=twinkling" alt="Supreet Mohapatra profile header" />
+</p>
 
-### AI Engineer in making · Full Stack Developer · Building real AI products, not just demos
+<!-- Title -->
+<h3 align="center">
+    <samp>
+        &gt; Hi there!, I am
+        <b>Supreet Mohapatra</b>
+    </samp>
+</h3>
 
-<div align="center">
-  <img src="banner.png"/>
-</div>
+<p align="center">
+<samp>
+「 AI Engineer in the making · Full Stack Developer · Building real AI products, not just demos 」
+</samp>
+</p>
 
----
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00E08A&center=true&vCenter=true&width=800&lines=Building+RAG+pipelines;Training+Computer+Vision+Models;Shipping+AI-integrated+Web+Apps;DSA+%7C+System+Design+%7C+Real+Projects"
+    alt="Typing SVG"
+  />
+  <img src="banner.png">
+</p>
 
-## 👩‍💻 About Me
+<img src="./docs/img/divider.svg" width="100%" alt="" />
 
-I'm **Supreet Mohapatra**, a CSE undergrad from India building at the intersection of **applied AI and full-stack development**.
+<!-- Title -->
+<p align="center">
+  <img src="./docs/img/system_access_title.svg" width="100%" alt="System access section title" />
+</p>
 
-I build things that actually work — RAG pipelines, computer vision systems, NLP tools, and AI-integrated web apps. Currently deepening my **DSA & system design** skills for better system or applicaation building while shipping real projects.
+<p align="center">
 
-### ⚡ Right now
-- Building **DocMind-AI** — AI-powered PDF platform with semantic search & vector retrieval
-- Grinding **DSA daily** on [LeetCode](https://leetcode.com/u/DevHime) (Java) · tracking progress in [DSA-series](https://github.com/Supreet37/DSA-series)
-- Learning **system design** fundamentals
-- Writing about what I build on [Medium](http://www.medium.com/@supreetmohapatra06) & [DEV.to](https://www.dev.to/supreet37)
+<a href="https://supreet-psi.vercel.app">
+  <img width="100%" src="./docs/img/system/portal_main.svg" alt="Enter the portfolio" />
+</a>
 
----
+</p>
 
--  <a href="https://supreet-psi.vercel.app" target="_blank">🌍 Portfolio</a>
-- ✉️ [supreetmohapatra06@gmail.com](mailto:supreetmohapatra06@gmail.com)
-- 🤝 Open to collaborating on AI-integrated apps and open source
+<p align="center">
 
----
+<a href="#-right-now">
+  <img width="32%" src="./docs/img/system/neural_lab.svg" alt="DocMind-AI, current build" />
+</a>
+<a href="#-learning-in-public">
+  <img width="32%" src="./docs/img/system/molecule_lab.svg" alt="DSA series" />
+</a>
+<a href="#-portfolio">
+  <img width="32%" src="./docs/img/system/model_forge.svg" alt="Writing on Medium and DEV.to" />
+</a>
 
-## 🛠️ What I actually work with
+</p>
+
+<img src="./docs/img/divider.svg" width="100%" alt="" />
+
+<p align="center">
+  <img src="./docs/img/hirad_core.svg" width="100%" alt="Core panel — who I am, in short" />
+</p>
+
+<img src="./docs/img/divider.svg" width="100%" alt="" />
+
+
+# 🛠 Technologies, Projects, and Focus Areas
+
+
+
+<h3>🛠 What I Work With</h3>
+<br>
 
 <details>
 <summary><b>Languages</b></summary>
@@ -132,68 +171,51 @@ I build things that actually work — RAG pipelines, computer vision systems, NL
 
 </details>
 
----
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <h4>🧪 Projects</h4>
+      <a href="docs/PROJECTS.md">
+        <img src="docs/img/tech_projects_panel.svg" width="220" alt="Projects navigation panel">
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <h4>🧠 AI Focus</h4>
+      <a href="docs/AI_DOMAIN.md">
+        <img src="docs/img/ai_domains.svg" width="220" alt="AI focus areas navigation panel">
+      </a>
+    </td>
+  </tr>
+</table>
 
-## 🚀 Featured Projects
 
-### 🧠 AI & ML
+<img src="./docs/img/divider.svg" width="100%" alt="" />
 
-| Project | What it does | Stack |
-|---|---|---|
-| [hallucination-detector](https://github.com/Supreet37/hallucination-detector) | Chrome extension + FastAPI backend that detects AI hallucinations using NLI models | `Python` `FastAPI` `NLP` `Chrome Extension` `Gemini` |
-| [baby-cry-analyzer](https://github.com/Supreet37/baby-cry-analyzer) | Classifies infant cries (hunger, pain, tiredness) from audio using ML | `Python` `TypeScript` `ML` `Deep Learning` |
-| [Smart-attendance-system](https://github.com/Supreet37/Smart-attendance-system) | Face recognition + voice verification + GPS-based attendance automation | `Python` `OpenCV` `Pillow` `Voice Recognition` |
-| [Friday-ai](https://github.com/Supreet37/Friday-ai) | Voice-enabled AI desktop assistant with a web interface, inspired by Iron Man's FRIDAY | `Python` `JS` `TTS` `HTML/CSS` |
+### 📊 Vital Statistics
 
-### 🌐 Full Stack & Frontend
-
-| Project | What it does | Stack |
-|---|---|---|
-| [CodeBridge](https://code-bridgeeducation.netlify.app/) | Learning & internship platform with student/admin flows, cart, events | `React` `Vite` `Tailwind` `Axios` |
-| [EcoHub](https://github.com/Supreet37/EcoHub) | Carbon footprint & sustainability tracking platform | `React` `JavaScript` `Vite` |
-
-### 📚 Learning in Public
-
-| Project | What it does |
-|---|---|
-| [DSA-series](https://github.com/Supreet37/DSA-series) | My daily DSA grind — LeetCode problems, patterns, notes in Java |
-
----
-
-## 🌐 Socials
-
-<p align="left">
-  <a href="https://www.github.com/Supreet37" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/supreet-mohapatra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://medium.com/@supreetmohapatra06" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  
-  <a href="https://dev.to/supreet37" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
-  
-  <a href="https://leetcode.com/u/DevHime" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  
-  <a href="https://huggingface.co/Nerdy37" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Supreet37&theme=radical&background=050b08&ring=00e08a&fire=00e08a&currStreakLabel=e8f7ee" alt="Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Supreet37&theme=radical" alt="GitHub profile contribution summary" />
+</p>
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Supreet37&label=PROFILE%20VIEWS&color=00e08a&style=flat-square" alt="Views" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Supreet37&theme=react-dark&hide_border=true&area=true" width="100%" />
 
-<a href="http://www.github.com/Supreet37">
-  <img src="https://streak-stats.demolab.com/?user=Supreet37&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-</a>
+
+<img src="./docs/img/divider.svg" width="100%" alt="" />
+
+<p align="center">
+⚡ Building real AI products — RAG, computer vision, and NLP that actually run
+</p>
+<p align="center">
+Star ⭐ the repos if they helped you!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050b08,100:00e08a&height=100&section=footer&width=100" alt="Profile footer wave"/>
+</p>
