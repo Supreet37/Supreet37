@@ -27,9 +27,6 @@
 <img src="./docs/img/divider.svg" width="100%" alt="" />
 
 <!-- Title -->
-<p align="center">
-  <img src="./docs/img/system_access_title.svg" width="100%" alt="System access section title" />
-</p>
 
 <p align="center">
 
