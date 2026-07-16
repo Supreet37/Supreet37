@@ -168,7 +168,7 @@
 
 </details>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" valign="top">
       <h4>🧪 Projects</h4>
