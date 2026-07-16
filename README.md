@@ -66,8 +66,8 @@
 <h3>🛠 What I Work With</h3>
 <br>
 
-<details>
-<summary><b>Languages</b></summary>
+<!-- <details>
+<summary><b>Languages</b></summary> -->
 <br>
 
 <p>
@@ -79,10 +79,10 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++" />
 </p>
 
-</details>
+<!-- </details> -->
 
-<details>
-<summary><b>Frontend</b></summary>
+<!-- <details>
+<summary><b>Frontend</b></summary> -->
 <br>
 
 <p>
@@ -97,10 +97,10 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite" />
 </p>
 
-</details>
+<!-- </details> -->
 
-<details>
-<summary><b>Backend & APIs</b></summary>
+<!-- <details>
+<summary><b>Backend & APIs</b></summary> -->
 <br>
 
 <p>
@@ -110,10 +110,10 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" title="Flask" />
 </p>
 
-</details>
+<!-- </details>
 
 <details>
-<summary><b>Databases</b></summary>
+<summary><b>Databases</b></summary> -->
 <br>
 
 <p>
@@ -124,10 +124,10 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase" />
 </p>
 
-</details>
+<!-- </details>
 
 <details>
-<summary><b>Deployment & Cloud</b></summary>
+<summary><b>Deployment & Cloud</b></summary> -->
 <br>
 
 <p>
@@ -137,10 +137,10 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud" />
 </p>
 
-</details>
+<!-- </details>
 
 <details>
-<summary><b>AI / ML</b></summary>
+<summary><b>AI / ML</b></summary> -->
 <br>
 
 <p>
@@ -152,10 +152,10 @@
 <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="36" height="36" alt="Hugging Face" title="Hugging Face" />
 </p>
 
-</details>
+<!-- </details>
 
 <details>
-<summary><b>Tools</b></summary>
+<summary><b>Tools</b></summary> -->
 <br>
 
 <p>
@@ -166,7 +166,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="36" height="36" alt="Jupyter" title="Jupyter" />
 </p>
 
-</details>
+<!-- </details> -->
 
 <table align="center" width="100%">
   <tr>
