@@ -1,0 +1,51 @@
+<svg viewBox="0 0 1500 820" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Engineering principles">
+  <rect width="1500" height="820" fill="#050b08"/>
+  <line x1="0" y1="40" x2="1500" y2="40" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="80" x2="1500" y2="80" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="120" x2="1500" y2="120" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="160" x2="1500" y2="160" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="200" x2="1500" y2="200" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="240" x2="1500" y2="240" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="280" x2="1500" y2="280" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="320" x2="1500" y2="320" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="360" x2="1500" y2="360" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="400" x2="1500" y2="400" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="440" x2="1500" y2="440" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="480" x2="1500" y2="480" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="520" x2="1500" y2="520" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="560" x2="1500" y2="560" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="600" x2="1500" y2="600" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="640" x2="1500" y2="640" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="680" x2="1500" y2="680" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="720" x2="1500" y2="720" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="760" x2="1500" y2="760" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="800" x2="1500" y2="800" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+  <text x="750.0" y="110" text-anchor="middle" font-family="'Courier New', monospace" font-size="42" fill="#e8f7ee" font-weight="700">Rules I Build By</text>
+  <path d="M375.0 132 Q750.0 144 1125.0 130" stroke="#00e08a" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <g transform="translate(90,220)">
+      <text x="0" y="0" font-family="'Courier New', monospace" font-size="40" fill="#00e08a" font-weight="700">01</text>
+      <text x="90" y="-6" font-family="'Courier New', monospace" font-size="28" fill="#e8f7ee" font-weight="700">Ship real things</text>
+      <text x="90" y="24" font-family="'Courier New', monospace" font-size="17" fill="#9fd8bd">A working small tool beats a perfect plan on paper.</text>
+      <line x1="0" y1="46" x2="1320" y2="46" stroke="#0f3322" stroke-width="1"/>
+    </g><g transform="translate(90,330)">
+      <text x="0" y="0" font-family="'Courier New', monospace" font-size="40" fill="#00e08a" font-weight="700">02</text>
+      <text x="90" y="-6" font-family="'Courier New', monospace" font-size="28" fill="#e8f7ee" font-weight="700">Simple over clever</text>
+      <text x="90" y="24" font-family="'Courier New', monospace" font-size="17" fill="#9fd8bd">Code I can explain in one sentence is code I can trust.</text>
+      <line x1="0" y1="46" x2="1320" y2="46" stroke="#0f3322" stroke-width="1"/>
+    </g><g transform="translate(90,440)">
+      <text x="0" y="0" font-family="'Courier New', monospace" font-size="40" fill="#00e08a" font-weight="700">03</text>
+      <text x="90" y="-6" font-family="'Courier New', monospace" font-size="28" fill="#e8f7ee" font-weight="700">Test with real data</text>
+      <text x="90" y="24" font-family="'Courier New', monospace" font-size="17" fill="#9fd8bd">A model is only as honest as the data it sees.</text>
+      <line x1="0" y1="46" x2="1320" y2="46" stroke="#0f3322" stroke-width="1"/>
+    </g><g transform="translate(90,550)">
+      <text x="0" y="0" font-family="'Courier New', monospace" font-size="40" fill="#00e08a" font-weight="700">04</text>
+      <text x="90" y="-6" font-family="'Courier New', monospace" font-size="28" fill="#e8f7ee" font-weight="700">Learn by building</text>
+      <text x="90" y="24" font-family="'Courier New', monospace" font-size="17" fill="#9fd8bd">DSA and system design stick better inside a real project.</text>
+      <line x1="0" y1="46" x2="1320" y2="46" stroke="#0f3322" stroke-width="1"/>
+    </g><g transform="translate(90,660)">
+      <text x="0" y="0" font-family="'Courier New', monospace" font-size="40" fill="#00e08a" font-weight="700">05</text>
+      <text x="90" y="-6" font-family="'Courier New', monospace" font-size="28" fill="#e8f7ee" font-weight="700">Write it down</text>
+      <text x="90" y="24" font-family="'Courier New', monospace" font-size="17" fill="#9fd8bd">If I built it, I explain it — for the next reader, and for me.</text>
+      <line x1="0" y1="46" x2="1320" y2="46" stroke="#0f3322" stroke-width="1"/>
+    </g>
+</svg>

@@ -1,0 +1,65 @@
+<svg viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="System Access">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050b08"/>
+      <stop offset="100%" stop-color="#081810"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="120" fill="url(#g)"/>
+  <line x1="0" y1="24" x2="1000" y2="24" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="48" x2="1000" y2="48" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="72" x2="1000" y2="72" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="96" x2="1000" y2="96" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+  <rect x="0" y="0" width="14" height="120" fill="#00e08a"/>
+  <rect x="986" y="0" width="14" height="120" fill="#00e08a"/>
+  <g opacity="0.9"><rect x="752" y="2" width="11" height="11" fill="#00e08a" opacity="0.6"/>
+<rect x="827" y="2" width="11" height="11" fill="#0c4a30" opacity="0.9"/>
+<rect x="857" y="2" width="11" height="11" fill="#5eead4" opacity="0.9"/>
+<rect x="887" y="2" width="11" height="11" fill="#00e08a" opacity="0.25"/>
+<rect x="902" y="2" width="11" height="11" fill="#5eead4" opacity="0.25"/>
+<rect x="917" y="2" width="11" height="11" fill="#00e08a" opacity="0.4"/>
+<rect x="932" y="2" width="11" height="11" fill="#00e08a" opacity="0.9"/>
+<rect x="947" y="2" width="11" height="11" fill="#0c4a30" opacity="0.25"/>
+<rect x="752" y="17" width="11" height="11" fill="#5eead4" opacity="0.6"/>
+<rect x="782" y="17" width="11" height="11" fill="#00e08a" opacity="0.6"/>
+<rect x="797" y="17" width="11" height="11" fill="#00e08a" opacity="0.4"/>
+<rect x="827" y="17" width="11" height="11" fill="#5eead4" opacity="0.6"/>
+<rect x="932" y="17" width="11" height="11" fill="#0c4a30" opacity="0.9"/>
+<rect x="947" y="17" width="11" height="11" fill="#00e08a" opacity="0.25"/>
+<rect x="752" y="32" width="11" height="11" fill="#00e08a" opacity="0.6"/>
+<rect x="797" y="32" width="11" height="11" fill="#0c4a30" opacity="0.9"/>
+<rect x="812" y="32" width="11" height="11" fill="#5eead4" opacity="0.4"/>
+<rect x="887" y="32" width="11" height="11" fill="#0c4a30" opacity="0.6"/>
+<rect x="932" y="32" width="11" height="11" fill="#00e08a" opacity="0.4"/>
+<rect x="752" y="47" width="11" height="11" fill="#00e08a" opacity="0.6"/>
+<rect x="767" y="47" width="11" height="11" fill="#00e08a" opacity="0.25"/>
+<rect x="797" y="47" width="11" height="11" fill="#0c4a30" opacity="0.9"/>
+<rect x="812" y="47" width="11" height="11" fill="#5eead4" opacity="0.25"/>
+<rect x="842" y="47" width="11" height="11" fill="#5eead4" opacity="0.9"/>
+<rect x="857" y="47" width="11" height="11" fill="#00e08a" opacity="0.6"/>
+<rect x="887" y="47" width="11" height="11" fill="#00e08a" opacity="0.25"/>
+<rect x="917" y="47" width="11" height="11" fill="#5eead4" opacity="0.6"/>
+<rect x="812" y="62" width="11" height="11" fill="#5eead4" opacity="0.9"/>
+<rect x="842" y="62" width="11" height="11" fill="#00e08a" opacity="0.6"/>
+<rect x="917" y="62" width="11" height="11" fill="#5eead4" opacity="0.9"/>
+<rect x="932" y="62" width="11" height="11" fill="#5eead4" opacity="0.25"/>
+<rect x="947" y="62" width="11" height="11" fill="#0c4a30" opacity="0.25"/>
+<rect x="752" y="77" width="11" height="11" fill="#0c4a30" opacity="0.4"/>
+<rect x="767" y="77" width="11" height="11" fill="#5eead4" opacity="0.6"/>
+<rect x="812" y="77" width="11" height="11" fill="#00e08a" opacity="0.25"/>
+<rect x="842" y="77" width="11" height="11" fill="#0c4a30" opacity="0.25"/>
+<rect x="902" y="77" width="11" height="11" fill="#5eead4" opacity="0.6"/>
+<rect x="932" y="77" width="11" height="11" fill="#5eead4" opacity="0.6"/>
+<rect x="812" y="92" width="11" height="11" fill="#0c4a30" opacity="0.4"/>
+<rect x="947" y="92" width="11" height="11" fill="#00e08a" opacity="0.25"/>
+<rect x="767" y="107" width="11" height="11" fill="#00e08a" opacity="0.6"/>
+<rect x="782" y="107" width="11" height="11" fill="#5eead4" opacity="0.6"/>
+<rect x="797" y="107" width="11" height="11" fill="#00e08a" opacity="0.9"/>
+<rect x="827" y="107" width="11" height="11" fill="#5eead4" opacity="0.25"/>
+<rect x="887" y="107" width="11" height="11" fill="#5eead4" opacity="0.25"/>
+<rect x="902" y="107" width="11" height="11" fill="#00e08a" opacity="0.4"/></g>
+  <text x="500.0" y="50.4" text-anchor="middle" font-family="'Courier New', monospace" font-size="28" fill="#e8f7ee" font-weight="700" letter-spacing="2">System Access</text>
+  <path d="M180.0 66.0 Q500.0 74.4 820.0 64.80000000000001" stroke="#00e08a" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <text x="500.0" y="88.8" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#9fd8bd" letter-spacing="1">enter the profile</text>
+  
+</svg>

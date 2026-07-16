@@ -1,0 +1,36 @@
+<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hidden page">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050b08"/>
+      <stop offset="100%" stop-color="#081810"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" fill="url(#g)"/>
+  <g stroke="#123626" stroke-width="1" opacity="0.5">
+    <line x1="0" y1="120" x2="1024" y2="120"/>
+    <line x1="0" y1="200" x2="1024" y2="200"/>
+    <line x1="0" y1="280" x2="1024" y2="280"/>
+    <line x1="0" y1="360" x2="1024" y2="360"/>
+    <line x1="0" y1="440" x2="1024" y2="440"/>
+    <line x1="0" y1="520" x2="1024" y2="520"/>
+    <line x1="0" y1="600" x2="1024" y2="600"/>
+    <line x1="0" y1="680" x2="1024" y2="680"/>
+    <line x1="0" y1="760" x2="1024" y2="760"/>
+  </g>
+  <rect x="0" y="0" width="30" height="1024" fill="#0c4a30"/>
+  <text x="90" y="150" font-family="'Courier New', monospace" font-size="46" fill="#e8f7ee" font-weight="700">A Page With No Link</text>
+  <path d="M90 170 Q400 182 900 168" stroke="#00e08a" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+  <text x="90" y="260" font-family="'Courier New', monospace" font-size="22" fill="#9fd8bd">Rule one: you are only reading this because</text>
+  <text x="90" y="296" font-family="'Courier New', monospace" font-size="22" fill="#9fd8bd">you clicked something small on purpose.</text>
+
+  <text x="90" y="360" font-family="'Courier New', monospace" font-size="22" fill="#9fd8bd">Rule two: curiosity is a decent trait in an engineer.</text>
+  <text x="90" y="396" font-family="'Courier New', monospace" font-size="22" fill="#9fd8bd">Keep it. It finds bugs before they find you.</text>
+
+  <text x="90" y="460" font-family="'Courier New', monospace" font-size="22" fill="#9fd8bd">Rule three: there is no prize here.</text>
+  <text x="90" y="496" font-family="'Courier New', monospace" font-size="22" fill="#9fd8bd">Just a note, left in the margins, for whoever looks.</text>
+
+  <text x="90" y="600" font-family="'Courier New', monospace" font-size="26" fill="#00e08a" font-style="italic">— Supreet</text>
+
+  <text x="90" y="900" font-family="'Courier New', monospace" font-size="15" fill="#5eead4">(this page is intentionally unlisted — nice find)</text>
+</svg>

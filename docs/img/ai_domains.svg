@@ -1,0 +1,32 @@
+<svg viewBox="0 0 500 650" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AI Focus">
+  <rect width="500" height="650" fill="#050b08" stroke="#0f3322" stroke-width="1"/>
+  <rect x="0" y="0" width="500" height="10" fill="#00e08a"/>
+  <rect x="0" y="640" width="500" height="10" fill="#00e08a"/>
+  <line x1="0" y1="34" x2="500" y2="34" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="68" x2="500" y2="68" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="102" x2="500" y2="102" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="136" x2="500" y2="136" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="170" x2="500" y2="170" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="204" x2="500" y2="204" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="238" x2="500" y2="238" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="272" x2="500" y2="272" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="306" x2="500" y2="306" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="340" x2="500" y2="340" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="374" x2="500" y2="374" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="408" x2="500" y2="408" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="442" x2="500" y2="442" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="476" x2="500" y2="476" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="510" x2="500" y2="510" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="544" x2="500" y2="544" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="578" x2="500" y2="578" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="612" x2="500" y2="612" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="646" x2="500" y2="646" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+  <circle cx="250.0" cy="120" r="46" fill="none" stroke="#00e08a" stroke-width="3"/>
+  <text x="250.0" y="130" text-anchor="middle" font-family="'Courier New', monospace" font-size="30" fill="#5eead4" font-weight="700">A</text>
+  <text x="250.0" y="200" text-anchor="middle" font-family="'Courier New', monospace" font-size="30" fill="#e8f7ee" font-weight="700">AI Focus</text>
+  <text x="60" y="260" font-family="'Courier New', monospace" font-size="18" fill="#9fd8bd">- Retrieval &amp; RAG systems</text>
+<text x="60" y="296" font-family="'Courier New', monospace" font-size="18" fill="#9fd8bd">- Computer vision</text>
+<text x="60" y="332" font-family="'Courier New', monospace" font-size="18" fill="#9fd8bd">- NLP &amp; language tools</text>
+
+  <text x="250.0" y="610" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" fill="#5eead4">open the focus map -&gt;</text>
+</svg>

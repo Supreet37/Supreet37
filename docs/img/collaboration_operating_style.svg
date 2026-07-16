@@ -1,0 +1,29 @@
+<svg viewBox="0 0 1400 680" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Operating style">
+  <rect width="1400" height="680" fill="#050b08"/>
+  <line x1="0" y1="40" x2="1400" y2="40" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="80" x2="1400" y2="80" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="120" x2="1400" y2="120" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="160" x2="1400" y2="160" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="200" x2="1400" y2="200" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="240" x2="1400" y2="240" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="280" x2="1400" y2="280" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="320" x2="1400" y2="320" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="360" x2="1400" y2="360" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="400" x2="1400" y2="400" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="440" x2="1400" y2="440" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="480" x2="1400" y2="480" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="520" x2="1400" y2="520" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="560" x2="1400" y2="560" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="600" x2="1400" y2="600" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+<line x1="0" y1="640" x2="1400" y2="640" stroke="#0f3322" stroke-width="1" opacity="0.5"/>
+  <text x="700.0" y="100" text-anchor="middle" font-family="'Courier New', monospace" font-size="38" fill="#e8f7ee" font-weight="700">How I Work</text>
+  <text x="80" y="170" font-family="'Courier New', monospace" font-size="24" fill="#5eead4" font-weight="700">Communication</text>
+    <text x="380" y="170" font-family="'Courier New', monospace" font-size="18" fill="#9fd8bd">Short, direct messages. I'll ask when something's unclear.</text>
+    <line x1="80" y1="192" x2="1320" y2="192" stroke="#0f3322" stroke-width="1"/><text x="80" y="270" font-family="'Courier New', monospace" font-size="24" fill="#5eead4" font-weight="700">Pace</text>
+    <text x="380" y="270" font-family="'Courier New', monospace" font-size="18" fill="#9fd8bd">Steady over rushed — I'm still a student, I build around classes.</text>
+    <line x1="80" y1="292" x2="1320" y2="292" stroke="#0f3322" stroke-width="1"/><text x="80" y="370" font-family="'Courier New', monospace" font-size="24" fill="#5eead4" font-weight="700">Code</text>
+    <text x="380" y="370" font-family="'Courier New', monospace" font-size="18" fill="#9fd8bd">Small commits, readable names, a README that actually explains it.</text>
+    <line x1="80" y1="392" x2="1320" y2="392" stroke="#0f3322" stroke-width="1"/><text x="80" y="470" font-family="'Courier New', monospace" font-size="24" fill="#5eead4" font-weight="700">Feedback</text>
+    <text x="380" y="470" font-family="'Courier New', monospace" font-size="18" fill="#9fd8bd">Tell me straight. I'd rather fix it now than ship it broken.</text>
+    <line x1="80" y1="492" x2="1320" y2="492" stroke="#0f3322" stroke-width="1"/>
+</svg>
