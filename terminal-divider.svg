@@ -1,0 +1,31 @@
+<svg viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="term" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#050B13"/>
+      <stop offset="50%" stop-color="#0A1A22"/>
+      <stop offset="100%" stop-color="#050B13"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="90" fill="url(#term)"/>
+  <line x1="0" y1="0" x2="1200" y2="0" stroke="#1B3A3A" stroke-width="1"/>
+  <line x1="0" y1="89" x2="1200" y2="89" stroke="#1B3A3A" stroke-width="1"/>
+
+  <circle cx="26" cy="20" r="6" fill="#2A3B3B"/>
+  <circle cx="46" cy="20" r="6" fill="#2A3B3B"/>
+  <circle cx="66" cy="20" r="6" fill="#2A3B3B"/>
+
+  <text x="30" y="58" font-family="monospace" font-size="20" fill="#5EEAD4">
+    <tspan>&gt;_ </tspan><tspan fill="#8FF7E0" font-weight="bold">building something real</tspan>
+    <animate attributeName="opacity" values="1;1" dur="1s"/>
+  </text>
+
+  <rect x="418" y="42" width="11" height="20" fill="#5EEAD4">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="monospace" font-size="13" fill="#3A6B63">
+    <text x="700" y="35">commits: 1337</text>
+    <text x="700" y="55">status: shipping</text>
+    <text x="700" y="75">coffee: refilled</text>
+  </g>
+</svg>
