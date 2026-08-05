@@ -1,8 +1,0 @@
-<svg viewBox="0 0 1000 34" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="divider">
-  <rect width="1000" height="34" fill="none"/>
-  <line x1="0" y1="17" x2="1000" y2="17" stroke="#123626" stroke-width="1"/>
-  <path d="M0 17 L980 17 L1000 8 L1000 26 L980 17" fill="none"/>
-  <line x1="0" y1="17" x2="1000" y2="17" stroke="#0c4a30" stroke-width="2" stroke-dasharray="6 6" opacity="0.8"/>
-  <circle cx="4" cy="17" r="4" fill="#00e08a"/>
-  <circle cx="996" cy="17" r="4" fill="#00e08a"/>
-</svg>
