@@ -1,69 +1,199 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050b08,100:00e08a&height=220&section=header&text=Supreet%20Mohapatra&fontColor=e8f7ee&fontSize=60&animation=twinkling" alt="Supreet Mohapatra header" />
-</p>
+# Hi there! I'm Supreet 👋
 
-<h3 align="center"><samp>&gt; Hi there, I'm <b>Supreet</b></samp></h3>
+### AI Engineer in making · Full Stack Developer · Building real AI products, not just demos
 
-<p align="center">
-<samp>「 AI Engineer in the making · Full Stack Developer · Building real AI products, not just demos 」</samp>
-</p>
-
-<p align="center">
-  <img src="banner.png" width="100%" alt="Supreet Mohapatra banner">
-</p>
+<div align="center">
+  <img src="banner.png"/>
+</div>
 
 ---
 
-## 👋 About Me
+## 👩‍💻 About Me
 
-CSE undergrad shipping AI-powered apps — RAG pipelines, computer vision, and full-stack products that actually run, not just notebook demos. Currently exploring what's possible at the intersection of LLMs and real-world tooling.
+I'm **Supreet Mohapatra**, a CSE undergrad from India building at the intersection of **applied AI and full-stack development**.
+
+I build things that actually work — RAG pipelines, computer vision systems, NLP tools, and AI-integrated web apps. Currently deepening my **DSA & system design** skills for better system or applicaation building while shipping real projects.
+
+### ⚡ Right now
+- Building **DocMind-AI** — AI-powered PDF platform with semantic search & vector retrieval
+- Grinding **DSA daily** on [LeetCode](https://leetcode.com/u/DevHime) (Java) · tracking progress in [DSA-series](https://github.com/Supreet37/DSA-series)
+- Learning **system design** fundamentals
+- Writing about what I build on [Medium](http://www.medium.com/@supreetmohapatra06) & [DEV.to](https://www.dev.to/supreet37)
 
 ---
 
-## 🛠 Tech Stack
+-  <a href="https://supreet-psi.vercel.app" target="_blank">🌍 Portfolio</a>
+- ✉️ [supreetmohapatra06@gmail.com](mailto:supreetmohapatra06@gmail.com)
+- 🤝 Open to collaborating on AI-integrated apps and open source
 
-<p align="center">
+---
+
+## 🛠️ What I actually work with
+
+<details>
+<summary><b>Languages</b></summary>
+<br>
+
+<p>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++" />
+</p>
+
+</details>
+
+<details>
+<summary><b>Frontend</b></summary>
+<br>
+
+<p>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" title="Node.js" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" title="Angular" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" title="Sass" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" title="Redux" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite" />
+</p>
+
+</details>
+
+<details>
+<summary><b>Backend & APIs</b></summary>
+<br>
+
+<p>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" title="FastAPI" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" title="Node.js" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" title="Express" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" title="Flask" />
+</p>
+
+</details>
+
+<details>
+<summary><b>Databases</b></summary>
+<br>
+
+<p>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="Supabase" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase" />
+</p>
+
+</details>
+
+<details>
+<summary><b>Deployment & Cloud</b></summary>
+<br>
+
+<p>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/netlify-colored.svg" width="36" height="36" alt="Netlify" title="Netlify" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" title="Render" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" title="Heroku" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud" />
+</p>
+
+</details>
+
+<details>
+<summary><b>AI / ML</b></summary>
+<br>
+
+<p>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" title="Scikit-learn" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV" title="OpenCV" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" title="NumPy" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" title="Pandas" />
 <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="36" height="36" alt="Hugging Face" title="Hugging Face" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" />
 </p>
+
+</details>
+
+<details>
+<summary><b>Tools</b></summary>
+<br>
+
+<p>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" title="Postman" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="36" height="36" alt="Jest" title="Jest" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="36" height="36" alt="Jupyter" title="Jupyter" />
+</p>
+
+</details>
 
 ---
 
-## 🧪 Featured Projects
+## 🚀 Featured Projects
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| **[hallucination-detector](https://github.com/Supreet37/hallucination-detector)** | Chrome extension + FastAPI backend that flags AI hallucinations right where you read the output, using NLI models. | FastAPI · NLI · Chrome Ext |
-| **[baby-cry-analyzer](https://github.com/Supreet37/baby-cry-analyzer)** | Audio classification system that turns a baby's cry into an interpretable signal using deep learning. | Python · Deep Learning · Audio |
-| **[Smart-attendance-system](https://github.com/Supreet37/Smart-attendance-system)** | Attendance automation with three independent checks — face recognition, voice, and GPS — instead of one. | Computer Vision · Voice · GPS |
+### 🧠 AI & ML
+
+| Project | What it does | Stack |
+|---|---|---|
+| [hallucination-detector](https://github.com/Supreet37/hallucination-detector) | Chrome extension + FastAPI backend that detects AI hallucinations using NLI models | `Python` `FastAPI` `NLP` `Chrome Extension` `Gemini` |
+| [baby-cry-analyzer](https://github.com/Supreet37/baby-cry-analyzer) | Classifies infant cries (hunger, pain, tiredness) from audio using ML | `Python` `TypeScript` `ML` `Deep Learning` |
+| [Smart-attendance-system](https://github.com/Supreet37/Smart-attendance-system) | Face recognition + voice verification + GPS-based attendance automation | `Python` `OpenCV` `Pillow` `Voice Recognition` |
+| [Friday-ai](https://github.com/Supreet37/Friday-ai) | Voice-enabled AI desktop assistant with a web interface, inspired by Iron Man's FRIDAY | `Python` `JS` `TTS` `HTML/CSS` |
+
+### 🌐 Full Stack & Frontend
+
+| Project | What it does | Stack |
+|---|---|---|
+| [CodeBridge](https://code-bridgeeducation.netlify.app/) | Learning & internship platform with student/admin flows, cart, events | `React` `Vite` `Tailwind` `Axios` |
+| [EcoHub](https://github.com/Supreet37/EcoHub) | Carbon footprint & sustainability tracking platform | `React` `JavaScript` `Vite` |
+
+### 📚 Learning in Public
+
+| Project | What it does |
+|---|---|
+| [DSA-series](https://github.com/Supreet37/DSA-series) | My daily DSA grind — LeetCode problems, patterns, notes in Java |
+
+---
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://www.github.com/Supreet37" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/supreet-mohapatra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://medium.com/@supreetmohapatra06" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  
+  <a href="https://dev.to/supreet37" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  
+  <a href="https://leetcode.com/u/DevHime" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  
+  <a href="https://huggingface.co/Nerdy37" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="./stats/streak.svg" width="48%" alt="GitHub streak stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Supreet37&theme=radical" width="48%" alt="GitHub stats summary" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Supreet37&theme=react-dark&hide_border=true&area=true" width="100%" />
 
----
-
-<p align="center">
-⚡ Building real AI products — RAG, computer vision, and NLP that actually run · Star ⭐ the repos if they helped you!
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050b08,100:00e08a&height=100&section=footer&width=100" alt="Footer wave"/>
-</p>
+<a href="http://www.github.com/Supreet37">
+  <img src="https://streak-stats.demolab.com/?user=Supreet37&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</a>
