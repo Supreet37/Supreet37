@@ -190,7 +190,7 @@
 ### 📊 Vital Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Supreet37&theme=radical&background=050b08&ring=00e08a&fire=00e08a&currStreakLabel=e8f7ee" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Supreet37&theme=radical&background=050b08&ring=00e08a&fire=00e08a&currStreakLabel=e8f7ee" alt="Streak" />
 </p>
 
 <p align="center">
