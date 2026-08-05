@@ -190,11 +190,8 @@
 ### 📊 Vital Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Supreet37&theme=radical&background=050b08&ring=00e08a&fire=00e08a&currStreakLabel=e8f7ee" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Supreet37&theme=radical" alt="GitHub profile contribution summary" />
+  <img src="https://img.shields.io/github/followers/Supreet37?label=Followers&style=for-the-badge&color=00e08a&labelColor=050b08" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSupreet37&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=00e08a&labelColor=050b08" alt="Public Repos" />
 </p>
 
 <p align="center">
